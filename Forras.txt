@@ -1,0 +1,14 @@
+k_infoism_05okt
+II.
+
+2. feladat:
+
+Egy autó üzemanyag-fogyasztását olyan módon adjuk meg, hogy 100 kilométer távolságú út megtételéhez hány liter benzinre van szüksége. 
+
+Készítsen programot, amely billentyûzetrõl beolvassa egy autó fogyasztását, üzemanyagtartályának ûrtartalmát, valamint a jármû által megteendõ út hosszát, és a fenti adatok alapján megállapítja, hogy kell-e tankolnia az autónak az adott hosszúságú út során amennyiben tele tankkal indult útnak!
+
+A program megállapításának megfelelõen írja képernyõre az alábbi mondatok közül a megfelelõt!
+"Az út megtehetõ tankolás nélkül."
+"Az út során tankolni kell!"
+
+Megjegyzés: Ha a fogyasztás F és az üzemanyagtartály térfogata V, akkor az autó egy tank benzinnel V*100/F kilométert tesz meg.
