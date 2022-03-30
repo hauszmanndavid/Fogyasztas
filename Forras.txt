@@ -3,12 +3,12 @@ II.
 
 2. feladat:
 
-Egy autó üzemanyag-fogyasztását olyan módon adjuk meg, hogy 100 kilométer távolságú út megtételéhez hány liter benzinre van szüksége. 
+Egy autÃ³ Ã¼zemanyag-fogyasztÃ¡sÃ¡t olyan mÃ³don adjuk meg, hogy 100 kilomÃ©ter tÃ¡volsÃ¡gÃº Ãºt megtÃ©telÃ©hez hÃ¡ny liter benzinre van szÃ¼ksÃ©ge. 
 
-Készítsen programot, amely billentyûzetrõl beolvassa egy autó fogyasztását, üzemanyagtartályának ûrtartalmát, valamint a jármû által megteendõ út hosszát, és a fenti adatok alapján megállapítja, hogy kell-e tankolnia az autónak az adott hosszúságú út során amennyiben tele tankkal indult útnak!
+KÃ©szÃ­tsen programot, amely billentyÅ±zetrÅ‘l beolvassa egy autÃ³ fogyasztÃ¡sÃ¡t, Ã¼zemanyagtartÃ¡lyÃ¡nak Å±rtartalmÃ¡t, valamint a jÃ¡rmÅ± Ã¡ltal megteendÅ‘ Ãºt hosszÃ¡t, Ã©s a fenti adatok alapjÃ¡n megÃ¡llapÃ­tja, hogy kell-e tankolnia az autÃ³nak az adott hosszÃºsÃ¡gÃº Ãºt sorÃ¡n amennyiben tele tankkal indult Ãºtnak!
 
-A program megállapításának megfelelõen írja képernyõre az alábbi mondatok közül a megfelelõt!
-"Az út megtehetõ tankolás nélkül."
-"Az út során tankolni kell!"
+A program megÃ¡llapÃ­tÃ¡sÃ¡nak megfelelÅ‘en Ã­rja kÃ©pernyÅ‘re az alÃ¡bbi mondatok kÃ¶zÃ¼l a megfelelÅ‘t!
+"Az Ãºt megtehetÅ‘ tankolÃ¡s nÃ©lkÃ¼l."
+"Az Ãºt sorÃ¡n tankolni kell!"
 
-Megjegyzés: Ha a fogyasztás F és az üzemanyagtartály térfogata V, akkor az autó egy tank benzinnel V*100/F kilométert tesz meg.
+MegjegyzÃ©s: Ha a fogyasztÃ¡s F Ã©s az Ã¼zemanyagtartÃ¡ly tÃ©rfogata V, akkor az autÃ³ egy tank benzinnel V*100/F kilomÃ©tert tesz meg.
